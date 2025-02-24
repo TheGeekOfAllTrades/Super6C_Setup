@@ -1,14 +1,19 @@
 # Super6C CM4 Cluster Setup Guide
 
 ## 📌 Parts Needed
-- **Super6C board**
-- **Minimum of 3 CM4 boards** (I am using all 6 CM4 boards; 2 are 4GB models with onboard storage)
-- **Storage:** SD cards (using SD cards for all CM4 boards, not using onboard eMMC)
-- **NVMe drives (optional)** for persistent storage  
-- **Ubuntu Server OS image** (from Raspberry Pi Imager)  
-- **Notepad++ (or similar)** to create text files  
-- **Optional:** PC for remote SSH access  
-
+- **Super6C board** [Amazon Link](https://amzn.to/418Cvtj)
+- **Minimum of 3 CM4 boards** (I am using all 6 CM4 boards; 2 are 4GB models with onboard storage) [Amazon Link
+](https://amzn.to/419wegN)
+- **Storage:** SD cards (using SD cards for all CM4 boards, not using onboard eMMC) [Amazon Link
+](https://amzn.to/41r0THM)
+- **NVMe drives (optional)** for persistent storage [Amazon Link
+](https://amzn.to/3QRud4p)
+- **Ubuntu Server OS image** (from Raspberry Pi Imager)  [Download Link
+](https://www.raspberrypi.com/software/)
+- **Notepad++ (or similar)** to create text files  [Notepad++ Link
+](https://notepad-plus-plus.org/)
+- **Optional:** PC for remote SSH access  [Amazon Link
+](https://amzn.to/3QuMQKX)
 ---
 
 # 🛠 Phase 1: Flash Ubuntu Server to CM4 & Set Up Static IPs
