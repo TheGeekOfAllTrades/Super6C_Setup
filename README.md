@@ -1,4 +1,4 @@
-# Super6C CM4 Cluster Setup Guide
+# Super6C CM4 Cluster Setup Guide w/o Automation
 
 ## 📌 Parts Needed
 - **Super6C board** [Amazon Link](https://amzn.to/418Cvtj)
